@@ -1,0 +1,10 @@
+{
+    "name": "jpalala/simplepusher",
+    "description": "Testing out pusher",
+    "type": "project",
+    "require": {
+        "pusher/pusher-php-server": "^3.4@dev"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
